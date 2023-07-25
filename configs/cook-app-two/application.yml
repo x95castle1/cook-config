@@ -1,1 +1,2 @@
+spring.profiles.include: azure,logging,monitoring,rabbit-mq
 name: cook-app-two
