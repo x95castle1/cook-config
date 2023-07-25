@@ -1,2 +1,2 @@
-spring.profiles.include: azure,logging,monitoring
+spring.profiles.include: azure,logging
 name: cook-app-one
