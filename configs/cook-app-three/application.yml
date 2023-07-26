@@ -1,2 +1,2 @@
-spring.profiles.include: azure,logging,monitoring,rabbit-mq
+spring.profiles.include: azure,logging,monitoring,rabbit-mq,ocho
 name: cook-app-three
